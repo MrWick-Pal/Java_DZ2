@@ -1,0 +1,38 @@
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (1) Iteration [1, 3, 6, 2, 8, 9, 8, 8, 2, 1] change from (2) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (2) Iteration [1, 3, 6, 2, 8, 8, 9, 8, 2, 1] change from (8) to (9)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (3) Iteration [1, 3, 6, 2, 8, 8, 8, 9, 2, 1] change from (8) to (9)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (4) Iteration [1, 3, 6, 2, 8, 8, 8, 2, 9, 1] change from (2) to (9)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (5) Iteration [1, 3, 6, 2, 8, 8, 8, 2, 1, 9] change from (1) to (9)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (6) Iteration [1, 3, 2, 6, 8, 8, 8, 2, 1, 9] change from (2) to (6)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (7) Iteration [1, 3, 2, 6, 8, 8, 2, 8, 1, 9] change from (2) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (8) Iteration [1, 3, 2, 6, 8, 8, 2, 1, 8, 9] change from (1) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (9) Iteration [1, 2, 3, 6, 8, 8, 2, 1, 8, 9] change from (2) to (3)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (10) Iteration [1, 2, 3, 6, 8, 2, 8, 1, 8, 9] change from (2) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (11) Iteration [1, 2, 3, 6, 8, 2, 1, 8, 8, 9] change from (1) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (12) Iteration [1, 2, 3, 6, 2, 8, 1, 8, 8, 9] change from (2) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (13) Iteration [1, 2, 3, 6, 2, 1, 8, 8, 8, 9] change from (1) to (8)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (14) Iteration [1, 2, 3, 2, 6, 1, 8, 8, 8, 9] change from (2) to (6)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (15) Iteration [1, 2, 3, 2, 1, 6, 8, 8, 8, 9] change from (1) to (6)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (16) Iteration [1, 2, 2, 3, 1, 6, 8, 8, 8, 9] change from (2) to (3)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (17) Iteration [1, 2, 2, 1, 3, 6, 8, 8, 8, 9] change from (1) to (3)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (18) Iteration [1, 2, 1, 2, 3, 6, 8, 8, 8, 9] change from (1) to (2)
+мар. 11, 2023 6:59:26 PM TaskTwo BubbleSort
+INFO: (19) Iteration [1, 1, 2, 2, 3, 6, 8, 8, 8, 9] change from (1) to (2)
